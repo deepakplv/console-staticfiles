@@ -1,0 +1,37 @@
+.logo {
+  background: url(../images/logo.png) no-repeat; }
+
+a, a:focus, a:hover {
+  color: #438047; }
+
+.nav-main > a:focus, .nav-main > a:hover, nav.nav-secondary > a:focus, nav.nav-secondary > a:hover {
+  color: #438047;
+  /* color: #8eb409; */ }
+
+.nav-util > a:focus, .nav-util > a:hover {
+  color: #438047; }
+
+.footer ul > li > a:focus, .footer ul > li > a:hover {
+  border-bottom: 1px #438047 solid;
+  color: #438047;
+  filter: alpha(Opacity=100);
+  opacity: 1; }
+
+.btn-primary- {
+  background-image: linear-gradient(bottom, rgba(67, 128, 71, 0.98) 0, rgba(67, 128, 71, 0.98) 54.25%, rgba(67, 128, 71, 0.98) 60.01%, rgba(67, 128, 71, 0.98) 100%);
+  background: #438047; }
+
+._pricing .content-header {
+  background: url(../images/pricing.jpg); }
+
+.module-label, .tab-btns > .active > a:before {
+  background: #43a046; }
+
+.tab-btns > .active > a:before {
+  background: #317e3b !important; }
+
+.pricing-module .price + .price:before {
+  border: 2px #43a047 solid;
+  color: #43a047; }
+
+/*# sourceMappingURL=new-theme.css.map */

@@ -1,0 +1,12 @@
+.overlay-white {
+  display: block;
+  position: absolute;
+  background: white;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+  padding: 0; }
+
+/*# sourceMappingURL=overlay.css.map */
